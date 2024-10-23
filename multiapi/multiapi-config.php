@@ -1,0 +1,7 @@
+<?php
+
+	$pattern = '';
+	$url = '';
+	$phantomcookies = '';
+
+?>
