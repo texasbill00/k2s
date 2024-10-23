@@ -1,6 +1,7 @@
 # k2s
 ## install
 - php7
+- phantomcookies/cookies
 - phantomjs
 ### phantomjs
 ```
